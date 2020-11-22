@@ -1,0 +1,5 @@
+table.dataTable thead tr th,
+table.dataTable thead tr td,
+table.dataTable tfoot tr th {
+    white-space: nowrap;
+}

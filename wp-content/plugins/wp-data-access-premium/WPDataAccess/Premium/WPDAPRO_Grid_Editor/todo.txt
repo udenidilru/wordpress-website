@@ -1,0 +1,22 @@
+UPDATES IN COMMIT
+- (BUG) When sorting the last delete button becomes a create button...
+    SOLUTION: Changed the if statement in the comparer function (line 87) from || to &&, reversed thinking at first.
+
+
+TODO LIST
+- Make grid and dataView array for multiple grids on page.
+    - Appears difficult have to change the Grid_Editor_Init file...
+=== TODO BUGS
+- After update of field sorting is reset.
+- Cannot insert after delete.
+
+
+RECENT ADDITIONS
+- Let to var
+- You have to exit the last field before pressing create..
+    - System programmed enter press (on create button).
+    - Solution grid.gotoCell(rowNumber, 0, false);
+- Sortable columns
+    - Created on line 71 using a comparer function. Capital letters are annoying...
+- (BUG) On delete creates error. Record is removed from table on page, but remains in db
+    SOLUTION: Added if to check for NULL values in the where clause
