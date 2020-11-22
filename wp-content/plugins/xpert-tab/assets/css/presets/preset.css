@@ -1,0 +1,248 @@
+.preset_select {
+  width: 30%;
+}
+.xa-default {
+  background: #fff;
+}
+.xa-default li a {
+  padding: 10px 30px;
+  border-bottom: 1px solid #eee;
+  margin-right: 0px;
+  border-radius: 0px;
+  color: #939599;
+  outline: 0px;
+  background: #fff;
+}
+.xa-default li a i {
+  display: block;
+  text-align: center;
+}
+.xa-default .nav-tabs .active a,
+.xa-default .nav-tabs .active a:hover,
+.xa-default .nav-tabs .active a:focus {
+  box-shadow: inset 0 8px 0px -5px #000000;
+  background: #fff;
+}
+.xa-default .tab-content {
+  border-bottom: 1px solid #eee;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  background: #fff;
+}
+.xa-default .tab-content .active {
+  padding: 15px;
+}
+.xa-blue > .panel > .panel-heading {
+  background: #d9edf7;
+  color: #31708f;
+  border-color: #bce8f1;
+  padding: 0px;
+}
+.xa-blue > .panel > .panel-heading a {
+  text-decoration: none;
+  display: block;
+  padding: 10px 15px;
+}
+.xa-blue > .panel-default {
+  border-color: #bce8f1;
+}
+.xa-blue > .panel-default > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #bce8f1;
+}
+.xa-blue > panel-default > panel-heading > panel-title > a {
+  color: #31708f;
+}
+.xa-blue {
+  background: #fff;
+}
+.xa-blue li a {
+  padding: 10px 30px;
+  border-bottom: 1px solid #eee;
+  margin-right: 0px;
+  border-radius: 0px;
+  color: #939599;
+  outline: 0px;
+  background: #fff;
+}
+.xa-blue li a i {
+  display: block;
+  text-align: center;
+}
+.xa-blue .nav-tabs .active a,
+.xa-blue .nav-tabs .active a:hover,
+.xa-blue .nav-tabs .active a:focus {
+  box-shadow: inset 0 8px 0px -5px #054182;
+  color: #054182;
+  background: #fff;
+}
+.xa-blue .tab-content {
+  border-bottom: 1px solid #eee;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  background: #fff;
+}
+.xa-blue .tab-content .active {
+  padding: 15px;
+}
+.xa-green > .panel > .panel-heading {
+  background: #dff0d8;
+  color: #3c763d;
+  border-color: #d6e9c6;
+  padding: 0px;
+}
+.xa-green > .panel > .panel-heading a {
+  text-decoration: none;
+  display: block;
+  padding: 10px 15px;
+}
+.xa-green > .panel-default {
+  border-color: #d6e9c6;
+}
+.xa-green > .panel-default > .panel-heading + .panel-collapse > .panel-body {
+  border-top: 1px solid #ddd;
+}
+.xa-green > panel-default > panel-heading > panel-title > a {
+  color: #3c763d;
+}
+.xa-green {
+  background: #fff;
+}
+.xa-green li a {
+  padding: 10px 30px;
+  border-bottom: 1px solid #eee;
+  margin-right: 0px;
+  border-radius: 0px;
+  color: #939599;
+  outline: 0px;
+  background: #fff;
+}
+.xa-green li a i {
+  display: block;
+  text-align: center;
+}
+.xa-green .nav-tabs .active a,
+.xa-green .nav-tabs .active a:hover,
+.xa-green .nav-tabs .active a:focus {
+  box-shadow: inset 0 8px 0px -5px #9aca40;
+  color: #9ACA40;
+  background: #fff;
+}
+.xa-green .tab-content {
+  border-bottom: 1px solid #eee;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  background: #fff;
+}
+.xa-green .tab-content .active {
+  padding: 15px;
+}
+.xa-yellow > .panel-tab > .panel-heading {
+  color: #8a6d3b;
+  background: #fcf8e3;
+  border-color: #faebcc;
+  padding: 0px;
+}
+.xa-yellow > .panel-tab > .panel-heading a {
+  text-decoration: none;
+  display: block;
+  padding: 10px 15px;
+}
+.xa-yellow > .panel-default {
+  border-color: #faebcc;
+}
+.xa-yellow > .panel-default > .panel-heading + .panel-collapse > .panel-body {
+  border-top: 1px solid #ddd;
+}
+.xa-yellow > panel-default > panel-heading > panel-title > a {
+  color: #8a6d3b;
+}
+.xa-yellow {
+  background: #fff;
+}
+.xa-yellow li a {
+  padding: 10px 30px;
+  border-bottom: 1px solid #eee;
+  margin-right: 0px;
+  border-radius: 0px;
+  color: #939599;
+  outline: 0px;
+  background: #fff;
+}
+.xa-yellow li a i {
+  display: block;
+  text-align: center;
+}
+.xa-yellow .nav-tabs .active a,
+.xa-yellow .nav-tabs .active a:hover,
+.xa-yellow .nav-tabs .active a:focus {
+  box-shadow: inset 0 8px 0px -5px #e2fc00;
+  color: #E2FC00;
+  background: #fff;
+}
+.xa-yellow .tab-content {
+  border-bottom: 1px solid #eee;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+}
+.xa-yellow .tab-content .active {
+  padding: 15px;
+}
+.xa-red > .panel > .panel-heading {
+  color: #a94442;
+  background: #f2dede;
+  border-color: #ebccd1;
+  padding: 0px;
+}
+.xa-red > .panel > .panel-heading a {
+  text-decoration: none;
+  display: block;
+  padding: 10px 15px;
+}
+.xa-red > .panel-default {
+  border-color: #ebccd1;
+}
+.xa-red > .panel-default > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #ebccd1;
+}
+.xa-red > panel-default > panel-heading > panel-title > a {
+  color: #a94442;
+}
+.xa-red {
+  background: #fff;
+}
+.xa-red li a {
+  padding: 10px 30px;
+  border-bottom: 1px solid #eee;
+  margin-right: 0px;
+  border-radius: 0px;
+  outline: 0px;
+  background: #fff;
+}
+.xa-red li a i {
+  display: block;
+  text-align: center;
+}
+.xa-red .nav-tabs .active a,
+.xa-red .nav-tabs .active a:hover,
+.xa-red .nav-tabs .active a:focus {
+  box-shadow: inset 0 8px 0px -5px #fc0000;
+  color: #FC0000;
+  background: #fff;
+}
+.xa-red .tab-content {
+  border-bottom: 1px solid #eee;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  background: #fff;
+}
+.xa-red .tab-content .active {
+  padding: 15px;
+}
+.xa-default > .panel > .panel-heading {
+  padding: 0px;
+}
+.xa-default > .panel > .panel-heading a {
+  text-decoration: none;
+  display: block;
+  padding: 10px 15px;
+}
